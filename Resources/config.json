@@ -1,0 +1,18 @@
+{
+	"station_name": "新宿",
+	"weekdays_timetable": [
+		{ "time": "06:10", "direction": "東京", "upside": true, "traintype": "普通", "next_station": "代々木" },
+		{ "time": "07:00", "direction": "池袋", "upside": false, "traintype": "特急", "next_station": "高田馬場" }
+	],
+	"holidays_timetable": [
+		{ "time": "06:38", "direction": "池袋", "upside": false, "traintype": "快速", "next_station": "高田馬場" },
+		{ "time": "07:03", "direction": "東京", "upside": true, "traintype": "特急", "next_station": "御茶ノ水" }
+	],
+	"update_time": "2025/05/19 17:05",
+	"type_colors": {
+		"普通": "#0080FF",
+		"快速": "#8000FF",
+		"特急": "#FF0000"
+	},
+	"comment": "これはサンプルデータです。 (v1.0)"
+}
