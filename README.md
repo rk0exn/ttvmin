@@ -20,5 +20,5 @@ Sorry, this repository is available on Japanese only!
 このアプリケーションは**すべての駅ごとに**構成ファイルを作成する必要があります。<br>
 2025/06/08 追記: エディターを作成しました。RC版ですが、ぜひ使ってみてください。<br>[ttvedit](https://github.com/rk0exn/ttvedit)<br><br>
 ちなみに路線ごとにも分割する必要があります。これは見やすさのためだけです。<br>
-サンプルとして、Resourcesフォルダ内にconfig.jsonを置いておきましたので、ぜひ内部構造を見てほしいです！
+サンプルとして、Resourcesフォルダ内にconfig.jsonを置いておきましたので、ぜひ内部構造を見てほしいです！<br>
 本ソフトウェアはMITライセンスです。ソースコード内に著作権表記はありませんが、著作権は放棄されていません。
